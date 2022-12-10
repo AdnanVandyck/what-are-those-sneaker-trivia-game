@@ -1,2 +1,2 @@
 # what-are-those-sneaker-trivia-game
-The Trivia Game for Sneaker Aficionado
+The Trivia Game for Sneaker Aficionados
